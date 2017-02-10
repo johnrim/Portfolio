@@ -570,6 +570,7 @@ blockquote footer {
     margin: 0;
     max-width: 400px;
     width: 100%;
+    background: linear-gradient(90deg,rgba(255,255,255,.15),rgba(255,255,255,.25));
 }
 
 #slides .slide-caption {
@@ -680,10 +681,24 @@ blockquote footer {
     border-bottom: 1px solid rgba(255,163,93,1);
 }
 
+#slides h6 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 #slides span {
-    color: rgba(255,163,93,1);
+    font-style: italic;
+    /*color: rgba(255,163,93,1);
     background-color: #000;
-    padding: 4px 0;
+    padding: 4px 3px 4px 0;*/
+}
+
+#slides .resume {
+    margin-top: 20px;
+}
+
+#slides .indent {
+    margin-left: 2px;
 }
 
 /*--------------------------------------------------
