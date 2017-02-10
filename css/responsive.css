@@ -104,13 +104,21 @@ URL:            http://francescolepere.com
         padding-right: 0px;
     }
 
+    .navbar-default .navbar-brand {
+        margin-left: 30px;
+        /*transform: rotate(90deg);*/
+    }
+
 }
 
 @media screen and (max-width: 600px) and (orientation : landscape){
-
+    
 }
 
 @media screen and (max-width: 480px){
+    #slides .caption-wrapper {
+        left: 5%;
+    }
 
 }
 
