@@ -71,11 +71,11 @@ $(function () {
           }, function(){
           $(this).css("color", "#fff");
         });
-        $(".navbar-brand").css("background-image", "url(img/logo_2_white.svg)");
+        $(".navbar-brand").css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2_white.svg)");
         $(".navbar-brand").hover(function(){
-          $(this).css("background-image", "url(img/logo_2_hover.svg)");
+          $(this).css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2_hover.svg)");
           }, function(){
-          $(this).css("background-image", "url(img/logo_2_white.svg)");
+          $(this).css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2_white.svg)");
         });
         
     }
@@ -87,11 +87,11 @@ $(function () {
           }, function(){
           $(this).css("color", "#000");
         });
-        $(".navbar-brand").css("background-image", "url(img/logo_2.svg)");
+        $(".navbar-brand").css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2.svg)");
         $(".navbar-brand").hover(function(){
-          $(this).css("background-image", "url(img/logo_2_hover.svg)");
+          $(this).css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2_hover.svg)");
           }, function(){
-          $(this).css("background-image", "url(img/logo_2.svg)");
+          $(this).css("background-image", "url(http://d2g65udqjmtqo9.cloudfront.net/img/logo_2.svg)");
         });
     }
   });
